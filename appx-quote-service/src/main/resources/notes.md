@@ -7,3 +7,7 @@ Solution : @JsonProperty("price") use json property
 
 
 eod multiple primary key and h2
+
+
+add logback 
+fxrate information
